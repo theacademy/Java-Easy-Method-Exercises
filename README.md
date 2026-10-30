@@ -1,3 +1,4 @@
+### Assignment Status: ![Build status](https://github.com/theacademy/Java-Easy-Method-Exercises/actions/workflows/easy.yaml/badge.svg?branch=main)
 # Java Interview Practice - Easy-Methods Lab
 
 ## Overview
